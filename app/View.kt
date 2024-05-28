@@ -1,0 +1,3 @@
+interface View {
+    fun update()
+}
